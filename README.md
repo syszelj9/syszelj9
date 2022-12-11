@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @syszelj9
 - 👀 I’m interested in Linux, programming and servers
-- 🌱 I’m currently learning Linux Server
+- 🌱 I’m currently learning Linux Server and PHP
 - 💞️ I’m looking to collaborate on numerous projects
 - 📫 How to reach me https://www.syszelj9.github.io/
 
