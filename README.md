@@ -5,6 +5,7 @@ SYSZELJ9
 - 💞️ I’m looking to collaborate on numerous projects
 - 📫 How to reach me https://www.syszelj9.github.io/
 - CompTIA ITF+ certified
+- CompTIA A+ certified
 - Logosoft ITSS Windows Server certified
 
 <!---
